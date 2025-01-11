@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: Enhancing my skills in coding and project management, and exploring opportunities in dynamic tech environments.
-👯 I’m looking to collaborate on: Innovative projects involving software development, optimization, or emerging technologies.
-🤝 I’m looking for help with: Networking within the tech industry and finding opportunities to contribute to impactful software projects.
-🌱 I’m currently learning: Advanced programming techniques, and keeping up with the latest tech trends.
-💬 Ask me about: Coding solutions, project management strategies, and staying adaptable in a fast-evolving tech world.
-⚡ Fun fact: I have a knack for recognizing patterns and turning them into efficient solutions!
+🔭 I’m currently working on: Enhancing my skills in coding and project management, and exploring opportunities in dynamic tech environments.<br>
+👯 I’m looking to collaborate on: Innovative projects involving software development, optimization, or emerging technologies.<br>
+🤝 I’m looking for help with: Networking within the tech industry and finding opportunities to contribute to impactful software projects.<br>
+🌱 I’m currently learning: Advanced programming techniques, and keeping up with the latest tech trends.<br>
+💬 Ask me about: Coding solutions, project management strategies, and staying adaptable in a fast-evolving tech world.<br>
+⚡ Fun fact: I have a knack for recognizing patterns and turning them into efficient solutions!<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julian_piedra64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-piedra-89a494306) 
