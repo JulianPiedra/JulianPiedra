@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-piedra-89a494306) 
-[![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://julianpiedra.github.io/Portfolio/) 
+[![Portfolio]](https://julianpiedra.github.io/Portfolio/) 
 
 
 # 💻 Tech Stack:
